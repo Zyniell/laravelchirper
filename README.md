@@ -59,8 +59,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## What I've Accomplished
 
-*✅ User authentication with registration and login
-*✅ A database-driven app with models and migrations that you can read from and write to
-*✅ Full CRUD operations for managing content
-*✅ Security features like CSRF protection and password hashing that Laravel gives out of the box
-*✅ A responsive UI with Tailwind CSS and DaisyUI
+*[✅ User authentication with registration and login.]
+*[✅ A database-driven app with models and migrations that you can read from and write to.]
+*[✅ Full CRUD operations for managing content.]
+*[✅ Security features like CSRF protection and password hashing that Laravel gives out of the box.]
+*[✅ A responsive UI with Tailwind CSS and DaisyUI.]
