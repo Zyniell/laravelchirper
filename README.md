@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Judul Nama Proyek Kamu (Contoh: Chirper App)
+## Chirper together App
 
 Ini adalah aplikasi web yang saya bangun menggunakan Laravel untuk mempelajari konsep backend, autentikasi, dan manajemen database.
 
@@ -18,3 +18,16 @@ Ini adalah aplikasi web yang saya bangun menggunakan Laravel untuk mempelajari k
 * ✅ **Full CRUD operations** for managing content.
 * ✅ **Security features** like CSRF protection and password hashing that Laravel gives out of the box.
 * ✅ **A responsive UI** with Tailwind CSS and DaisyUI.
+
+## 🛠️ Built With
+- **Framework:** Laravel 13
+- **Styling:** Tailwind CSS & DaisyUI
+- **Database:** MySQL
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository
+2. Run `composer install`
+3. Copy `.env.example` to `.env` and set your database
+4. Run `php artisan migrate`
+5. Run `php artisan serve`
