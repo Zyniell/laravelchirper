@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Judul Nama Proyek Kamu (Contoh: Chirper App)
+
+Ini adalah aplikasi web yang saya bangun menggunakan Laravel untuk mempelajari konsep backend, autentikasi, dan manajemen database.
+
 ## What I've Accomplished
 
 * ✅ **User authentication** with registration and login.
